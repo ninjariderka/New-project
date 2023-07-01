@@ -9,3 +9,5 @@ Zmiana 1
 Changelog:
 
 - Dodano funkcję sprawdzającą czy liczba jest pierwsza
+- Dodano funkcję obliczającą wyrazy ciągu fibonacciego
+
