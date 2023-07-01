@@ -6,6 +6,10 @@ Jest to plik zmieniony na brunchu main.
 
 Zmiana 1
 
-Changelog:
+#Changelog:
 
 - Dodano funkcję sprawdzającą czy liczba jest pierwsza
+
+#Kontakt
+
+jankowalski@onet.pl
